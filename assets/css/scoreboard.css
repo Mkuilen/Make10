@@ -1,0 +1,12 @@
+#hoofdtekst {
+    font-size: 60px;
+    text-align: center; 
+    color: white;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+#scoretable {
+    text-align: center;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+}

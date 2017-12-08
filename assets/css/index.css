@@ -1,0 +1,79 @@
+#Title {
+    font-size: 90px;
+    text-align: center; 
+    color: white;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+    
+}
+
+#buttonplay {
+    background-color: #696969;
+    border: none;
+    color: white;
+    padding: 3px 125px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 27px;
+    border: black;
+    border-style: solid;
+    border-width: 2px;
+}
+#button1, #button2, #button3, #button4 {
+    background-color: #696969;
+    border: none;
+    color: white;
+    padding: 3px 120px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 27px;
+    border-style: solid;
+    border-width: 2px;
+}
+#button1{
+    margin-left: 22.7%;
+}
+#timer {
+   color: white; 
+}
+#buttonclose {
+    background-color: #696969;
+    border: none;
+    color: white;
+    padding: 3px 125px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 27px;
+    border: black;
+    border-style: solid;
+    border-width: 2px;
+}
+#buttonplay:hover {
+    background-color: white; 
+    color: black;
+}
+#button1:hover {
+    background-color: white; 
+    color: black;
+}
+#button2:hover {
+    background-color: white; 
+    color: black;
+}
+#button3:hover {
+    background-color: white; 
+    color: black;
+}
+#button4:hover {
+    background-color: white; 
+    color: black;
+}
+.center {
+    text-align: center;
+    
+}
+.timercss {
+    font-size: 50px;
+}
